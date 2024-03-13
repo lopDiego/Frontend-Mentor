@@ -1,0 +1,64 @@
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+body {
+    font-family: serif;
+}
+main {
+    background-color: hsl(31, 48%, 85%);
+    padding-top: 50px;
+}
+span {
+    font-weight: bold;
+}
+.principal {
+    border-radius: 25px;
+    padding: 50px;
+    background-color: white;
+    margin: 100px;
+    width: 800px;
+}
+.descripcion {
+    color: hsl(24, 5%, 18%);
+}
+.preparacion {
+    background-color: hsl(330, 100%, 98%);
+    margin: 10px;
+    padding: 5px 20px;
+    height: auto;
+    border-radius: 10px;
+    line-height: 2rem;
+}
+.titulo-preparacion {
+    color: hsl(283, 68%, 19%);
+}
+.imagen {
+    border-radius: 25px;
+    display: flex;
+    width: 800px;
+}
+h2 {
+    color: hsl(32, 68%, 45%);
+}
+.cal {
+    flex-direction: row;
+}
+.ingredientes {
+    line-height: 2rem;
+}
+.instrucciones {
+    line-height: 2rem;
+}
+.nutricion__div {
+    display: flex;
+    justify-content: space-between;
+}
+.linea_divisoria {
+    border-bottom: solid 2px rgb(233, 231, 231);
+}
+.linea_divisoria:last-of-type {
+    border: none;
+}
