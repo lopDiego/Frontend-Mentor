@@ -1,0 +1,54 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  .content {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+  }
+  .main {
+    background-color: rgb(36, 33, 33);
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+  }
+  .personal_info {
+    text-align: center;
+    line-height: 10px;
+  }
+  img {
+    border-radius: 50%;
+  }
+  h2 {
+    color: white;
+    font-size: 30px;
+  }
+  .direction {
+    color: rgba(172, 255, 47, 0.767);
+    font-size: 18px;
+    margin-bottom: 50px;
+  }
+  .description {
+    color: white;
+    margin-bottom: 30px ;
+  }
+  .rrss {
+    display: grid;
+    gap: 10px;
+  }
+  .links {
+    background-color: rgba(128, 128, 128, 0.349);
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    margin: 2px 20px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
